@@ -1,3 +1,4 @@
+````
 copyTopThird: aPicture
 |tempHeight|
 //Obtenemos el alto de aPicture
